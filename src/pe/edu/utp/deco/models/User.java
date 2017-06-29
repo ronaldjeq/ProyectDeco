@@ -99,5 +99,6 @@ public class User {
     public User setAcademy(String academy) {
         this.academy = academy;
         return this;
+
     }
 }
